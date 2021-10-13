@@ -28,6 +28,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
     php artisan key:generate
     npm install
     npm run watch
+    php artisan serve
 
 ## Learning Laravel
 
